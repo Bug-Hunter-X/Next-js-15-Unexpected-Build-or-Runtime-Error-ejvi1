@@ -1,0 +1,3 @@
+# Next.js 15 Unexpected Build or Runtime Error
+
+This repository demonstrates a bug encountered in Next.js 15, leading to an unexpected error during either the build process or runtime.  The issue may be related to the introduction of React Strict Mode or other changes in Next.js 15.  The bug is described in `bug.js`. A potential solution is provided in `bugSolution.js`, though further investigation might be needed depending on the specific cause of the error.
